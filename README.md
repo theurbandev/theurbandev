@@ -1,5 +1,7 @@
-🌎 Hello, world! I'm Matt 👋🏼
-My internet friends know me as @theurbandev.
+### 🌎 Hello, world! I'm Matt 👋🏼
+I'm a full stack engineer working at Rocket Mortgage focusing on Angular and C# platform. 
+
+My internet friends know me as [@theurbandev](https://www.instagram.com/theurbandev/)..
 
 
 Current favorite stack 🥞: TypeScript, Angular, C#, .NET, and AWS
@@ -12,12 +14,13 @@ Bias for Action
 
 
 Favorite hobbies include:
-☕ Making coffee
-⛰️ Hiking
-📖 Reading
+☕ Coffee/Espresso enthusiast <br>
+⛰️ Hiking <br>
+📖 Reading <br>
 
 
-Connect with me!
-- Instagrm
-- Twitter
-- Linkedin
+## Connect with Me
+- [Portfolio](https://www.juliacodes.com/) <br/>
+- [Instagram](https://www.instagram.com/juliacodes) <br/>
+- [Linkedin](https://www.linkedin.com/in/juliacodes/) <br/>
+- [Twitter](https://twitter.com/julia_codes) <br/>
