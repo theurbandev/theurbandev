@@ -6,8 +6,8 @@ My internet friends know me as [@theurbandev](https://www.instagram.com/theurban
 
 Current favorite stack 🥞: TypeScript, Angular, C#, .NET, and AWS
 
-Favorite hobbies include:
-☕ Coffee/Espresso enthusiast
+Favorite hobbies include: <br>
+☕ Coffee/Espresso enthusiast <br>
 ⛰️ Hiking <br>
 📖 Reading 
 
