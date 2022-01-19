@@ -1,7 +1,7 @@
 ### 🌎 Hello, world! I'm Matt 👋🏼
 I'm a full stack engineer working at Rocket Mortgage focusing on Angular and C# platform. 
 
-My internet friends know me as [@theurbandev](https://www.instagram.com/theurbandev/)..
+My internet friends know me as [@theurbandev](https://www.instagram.com/theurbandev/) 🌐
 
 
 Current favorite stack 🥞: TypeScript, Angular, C#, .NET, and AWS
