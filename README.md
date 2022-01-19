@@ -12,7 +12,7 @@ Favorite hobbies include:
 📖 Reading <br>
 
 
-## Connect with Me
+# Connect with Me
 - [Portfolio](https://theurbandev.github.io/theurbandev.com/) <br/>
 - [Instagram](https://www.instagram.com/theurbandev) <br/>
 - [Linkedin](https://www.linkedin.com/in/matthew-joseph-1456a21a7/) <br/>
