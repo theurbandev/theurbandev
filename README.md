@@ -9,7 +9,7 @@ Current favorite stack 🥞: TypeScript, Angular, C#, .NET, and AWS
 Favorite hobbies include:
 ☕ Coffee/Espresso enthusiast <br>
 ⛰️ Hiking <br>
-📖 Reading <br>
+📖 Reading 
 
 
 ### Connect with Me
