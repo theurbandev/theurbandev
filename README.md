@@ -13,7 +13,7 @@ Favorite hobbies include:
 
 
 ## Connect with Me
-- [Portfolio](https://www.juliacodes.com/) <br/>
-- [Instagram](https://www.instagram.com/juliacodes) <br/>
-- [Linkedin](https://www.linkedin.com/in/juliacodes/) <br/>
-- [Twitter](https://twitter.com/julia_codes) <br/>
+- [Portfolio](https://theurbandev.github.io/theurbandev.com/) <br/>
+- [Instagram](https://www.instagram.com/theurbandev) <br/>
+- [Linkedin](https://www.linkedin.com/in/matthew-joseph-1456a21a7/) <br/>
+- [Twitter](https://twitter.com/theurbandev) <br/>
