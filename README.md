@@ -1,16 +1,23 @@
-### Hi there, welcome to my page👋
+🌎 Hello, world! I'm Matt 👋🏼
+My internet friends know me as @theurbandev.
 
-<!--
-**theurbandev/theurbandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Current favorite stack 🥞: TypeScript, Angular, C#, .NET, and AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Top superpowers include:
+
+Deliver Results
+Ownership
+Bias for Action
+
+
+Favorite hobbies include:
+☕ Making coffee
+⛰️ Hiking
+📖 Reading
+
+
+Connect with me!
+- Instagrm
+- Twitter
+- Linkedin
