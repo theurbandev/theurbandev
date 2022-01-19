@@ -6,13 +6,6 @@ My internet friends know me as [@theurbandev](https://www.instagram.com/theurban
 
 Current favorite stack 🥞: TypeScript, Angular, C#, .NET, and AWS
 
-Top superpowers include:
-
-Deliver Results
-Ownership
-Bias for Action
-
-
 Favorite hobbies include:
 ☕ Coffee/Espresso enthusiast <br>
 ⛰️ Hiking <br>
