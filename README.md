@@ -4,7 +4,7 @@ I'm a full stack engineer working at Rocket Mortgage focusing on Angular and C# 
 My internet friends know me as [@theurbandev](https://www.instagram.com/theurbandev/) 👾
 
 
-Current stack 🥞: C#, Python, Javascript, and React
+Current stack 🥞: React.js, Javascript, C#, .Net
 
 Favorite hobbies include: <br>
 ☕ Coffee/Espresso enthusiast <br>
