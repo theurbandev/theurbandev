@@ -3,7 +3,7 @@
 # 🌎 Hello world
 I'm a software engineer at Rocket Mortgage writing code for client data services and I also moderate The Black Coder Community [BLACC](https://blacc.vercel.app/)
   
-## ⚡ Tech Stack
+## ⚡ Tech
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
