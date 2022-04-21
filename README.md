@@ -1,5 +1,5 @@
 ### 🌎 Hello, world
-I'm a full stack engineer working at Rocket Mortgage. 
+I'm a software engineer working at Rocket Mortgage!
 
 My internet friends know me as [@theurbandev](https://www.instagram.com/theurbandev/) 👾
 
