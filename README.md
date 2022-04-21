@@ -3,7 +3,7 @@
 # 🌎 Hello world
 I'm a software engineer at Rocket Mortgage writing code for client data services and I also moderate The Black Coder Community [BLACC](https://blacc.vercel.app/)
   
-## ⚡ Tech
+<!-- ## ⚡ Tech
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
@@ -17,7 +17,7 @@ I'm a software engineer at Rocket Mortgage writing code for client data services
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) -->
 
 My internet friends know me as [@theurbandev](https://www.instagram.com/theurbandev/) 👾
 
