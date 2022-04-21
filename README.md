@@ -3,9 +3,6 @@ I'm a software engineer working at Rocket Mortgage!
 
 My internet friends know me as [@theurbandev](https://www.instagram.com/theurbandev/) 👾
 
-
-Current stack 🥞: React.js, Javascript, C#, .Net
-
 Favorite hobbies include: <br>
 ☕ Coffee/Espresso enthusiast <br>
 ⛰️ Hiking <br>
