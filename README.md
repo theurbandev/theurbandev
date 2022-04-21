@@ -1,4 +1,4 @@
-### 🌎 Hello, world! I'm Matt 👋🏾
+### 🌎 Hello, world
 I'm a full stack engineer working at Rocket Mortgage focusing on Angular and C# platform. 
 
 My internet friends know me as [@theurbandev](https://www.instagram.com/theurbandev/) 👾
