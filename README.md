@@ -9,10 +9,7 @@ Favorite hobbies include: <br>
 📖 Reading 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Matt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthew-joseph-1456a21a7/)]
-(https://www.linkedin.com/in/matthew-joseph-1456a21a7)
-
-[![Linkedin Badge](https://img.shields.io/badge/-Matt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darryl-brooks-ii-a17a46140/)](https://www.linkedin.com/in/matthew-joseph-1456a21a7/)
+[![Linkedin Badge](https://img.shields.io/badge/-Matt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthew-joseph-1456a21a7/)](https://www.linkedin.com/in/matthew-joseph-1456a21a7/)
 
 [![Instagram Badge](https://img.shields.io/badge/-theurbandev-F56040?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/theurbandev/)](https://instagram.com/theurbandev)
 
