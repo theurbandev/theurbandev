@@ -1,14 +1,9 @@
 <div align="center">
 
 ### 🌎 Hello world
-I'm a software engineer at Rocket Mortgage writing code for client data services! I also moderate The Black Coder Community [BLACC](https://blacc.xyz)
+I'm a software engineer at Rocket Mortgage writing code for client data services and I also moderate The Black Coder Community [BLACC](https://blacc.vercel.app/)
 
 My internet friends know me as [@theurbandev](https://www.instagram.com/theurbandev/) 👾
-
-Favorite hobbies include: <br>
-☕ Coffee/Espresso enthusiast <br>
-⛰️ Hiking <br>
-📖 Reading 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthew-joseph-1456a21a7/)](https://www.linkedin.com/in/matthew-joseph-1456a21a7/)
