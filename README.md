@@ -1,7 +1,6 @@
 <div align="center">
 
 # 🌎 Hello World
-I'm a software engineer at Rocket Mortgage writing code for client data services and I also moderate The Black Coder Community [BLACC](https://blacc.vercel.app/)
   
 <!-- ## ⚡ Tech
 
